@@ -2,7 +2,7 @@
 
 ## Data
 
-**Dataset:** The dataset used in the project is named [Activity monitoring data](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip) which is about 52K.
+**Dataset:** The dataset used in the project is named [Activity monitoring data](https://github.com/khaledhasanzami/khaledhasanzami-Analysis-of-Personal-Movement-Using-Activity-Monitoring-Devices/blob/master/Activity_monitoring_data.zip?raw=true) which is about 53KB.
 
 **Variables:** The variables included in this dataset are:
   - *steps:* Number of steps taking in a 5-minute interval (missing values are coded as NA)
@@ -17,7 +17,7 @@ There are 5 types of files in the repository:
  - codebook.md epitomizes the whole code in simple text
  - readme.md explains the repository
  - figure directory containes all the figure produced in the analysis
- - codebook.html comprises the html version of the explanation
+ - Activity_monitoring_data.zip is the dataset used the project
  
 ## Code 
 Summary of the analysis is given below:
