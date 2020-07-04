@@ -17,7 +17,7 @@ There are 5 types of files in the repository:
  - codebook.md epitomizes the whole code in simple text
  - readme.md explains the repository
  - figure directory containes all the figure produced in the analysis
- - Activity_monitoring_data.zip is the dataset used the project
+ - Activity_monitoring_data.zip is the dataset used in the project
  
 ## Code 
 Summary of the analysis is given below:
