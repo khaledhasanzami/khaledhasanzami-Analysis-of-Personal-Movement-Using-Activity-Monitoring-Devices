@@ -43,4 +43,4 @@ Summary of the analysis is given below:
 - **Re-creating the project:**
     - In order to perform the analysis step by step please go for the physical_activity.R file.
     - For from scratch understanding, please go for the codebook.md
-    - The same analysis can be done in many other ways yet reach the same results. This one is the easiest of the form possible in my knowledge.
+    - The same analysis can be done in many other ways yet reach the same results. This one is the easiest of the forms possible in my knowledge.
