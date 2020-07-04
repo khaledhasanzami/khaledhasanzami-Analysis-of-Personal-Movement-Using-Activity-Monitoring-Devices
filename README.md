@@ -22,7 +22,7 @@ There are 5 types of files in the repository:
 ## Code 
 Summary of the analysis is given below:
 
- - **Lead with the question:** We are going to answer the below questions using the dataset.
+ - **Lead with the questions:** We are going to answer the below questions using the dataset.
    - What is mean total number of steps taken per day?
      (For this part of the project, we ignored the missing values in the dataset.)
       1. What is the total number of steps taken per day?
@@ -39,4 +39,8 @@ Summary of the analysis is given below:
     - Are there differences in activity patterns between weekdays and weekends?
        1. Let's create a new factor variable in the dataset with two levels – “weekday” and “weekend” indicating whether a given date is a weekday or weekend day.
        2. A panel plot containing a time series plot of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all weekday days or weekend days (y-axis). 
-       
+
+- **Re-creating the project:**
+    - In order to perform the analysis step by step please go for the physical_activity.R file.
+    - For from scratch understanding, please go for the codebook.md
+    - The same analysis can be done in many other ways yet reach the same results. This one is the easiest of the form possible in my knowledge.
