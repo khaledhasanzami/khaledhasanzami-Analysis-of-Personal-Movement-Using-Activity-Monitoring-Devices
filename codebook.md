@@ -129,7 +129,7 @@ As the data has been saved to a new dataframe, let's make the histogram of the t
 hist(steps_per_day$steps, main = paste("The total number of steps taken per day"),  breaks = 20, col="red", xlab="Number of Steps")
 ```
 
-![](codebook_files/figure-html/unnamed-chunk-9-1.png)<!-- -->
+![](https://github.com/khaledhasanzami/khaledhasanzami-Analysis-of-Personal-Movement-Using-Activity-Monitoring-Devices/blob/master/figure/unnamed-chunk-9-1.png)<!-- -->
  
 ## 3. Mean and meadian of the total number of steps taken
 
@@ -179,7 +179,7 @@ plot(steps_by_interval$interval, steps_by_interval$steps,
       col = "#00AFBB")
 ```
 
-![](codebook_files/figure-html/unnamed-chunk-12-1.png)<!-- -->
+![](https://github.com/khaledhasanzami/khaledhasanzami-Analysis-of-Personal-Movement-Using-Activity-Monitoring-Devices/blob/master/figure/unnamed-chunk-12-1.png)<!-- -->
 
 ## 2. 5-minute interval that contains the maximum number of steps
 
@@ -262,7 +262,7 @@ hist(steps_per_day$steps, main = "Total Steps Each Day", col="maroon", xlab="Num
 legend("topright", c("Imputed", "Non-imputed"), col=c("#00AFBB", "maroon"), lwd=10)
 ```
 
-![](codebook_files/figure-html/unnamed-chunk-17-1.png)<!-- -->
+![](https://github.com/khaledhasanzami/khaledhasanzami-Analysis-of-Personal-Movement-Using-Activity-Monitoring-Devices/blob/master/figure/unnamed-chunk-17-1.png)<!-- -->
 
 ### Calculating Mean
 
@@ -348,6 +348,6 @@ library(lattice)
 xyplot(StepsTotalUnion$steps ~ StepsTotalUnion$interval|StepsTotalUnion$dow, main="Average Steps per Day by Interval",xlab="Interval", ylab="Steps",layout=c(1,2), type="l")
 ```
 
-![](codebook_files/figure-html/unnamed-chunk-23-1.png)<!-- -->
+![](https://github.com/khaledhasanzami/khaledhasanzami-Analysis-of-Personal-Movement-Using-Activity-Monitoring-Devices/blob/master/figure/unnamed-chunk-23-1.png)<!-- -->
 
 
